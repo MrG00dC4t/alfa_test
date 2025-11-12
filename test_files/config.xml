@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <database>
+        <host>localhost</host>
+        <port>5432</port>
+        <name>testdb</name>
+        <username>admin</username>
+        <timeout>30</timeout>
+    </database>
+    <server>
+        <host>0.0.0.0</host>
+        <port>8080</port>
+        <ssl>true</ssl>
+        <maxConnections>100</maxConnections>
+    </server>
+    <logging>
+        <level>info</level>
+        <file>/var/log/app.log</file>
+        <rotate>true</rotate>
+    </logging>
+</configuration>

@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Laptop Computer",
+      "category": "Electronics",
+      "price": 999.99,
+      "stock": 25,
+      "specifications": {
+        "processor": "Intel i7",
+        "ram": "16GB",
+        "storage": "512GB SSD"
+      }
+    },
+    {
+      "id": "P002",
+      "name": "Wireless Mouse",
+      "category": "Accessories",
+      "price": 29.99,
+      "stock": 150,
+      "specifications": {
+        "connectivity": "Bluetooth",
+        "battery": "AAA",
+        "dpi": 1600
+      }
+    },
+    {
+      "id": "P003",
+      "name": "Mechanical Keyboard",
+      "category": "Accessories",
+      "price": 79.99,
+      "stock": 50,
+      "specifications": {
+        "switches": "Cherry MX Blue",
+        "backlight": "RGB",
+        "layout": "Full-size"
+      }
+    }
+  ]
+}
