@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book isbn="978-0-123456-47-2">
+        <title>Introduction to Programming</title>
+        <author>Alice Developer</author>
+        <year>2020</year>
+        <price currency="USD">49.99</price>
+        <available>true</available>
+    </book>
+    <book isbn="978-0-987654-32-1">
+        <title>Advanced Data Structures</title>
+        <author>Bob Engineer</author>
+        <year>2021</year>
+        <price currency="USD">59.99</price>
+        <available>true</available>
+    </book>
+    <book isbn="978-0-555555-55-5">
+        <title>Web Development Guide</title>
+        <author>Carol Designer</author>
+        <year>2022</year>
+        <price currency="USD">39.99</price>
+        <available>false</available>
+    </book>
+</library>

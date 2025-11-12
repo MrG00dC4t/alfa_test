@@ -1,0 +1,39 @@
+{
+  "library": {
+    "books": [
+      {
+        "isbn": "978-0-123456-47-2",
+        "title": "Introduction to Programming",
+        "author": "Alice Developer",
+        "year": 2020,
+        "price": {
+          "amount": 49.99,
+          "currency": "USD"
+        },
+        "available": true
+      },
+      {
+        "isbn": "978-0-987654-32-1",
+        "title": "Advanced Data Structures",
+        "author": "Bob Engineer",
+        "year": 2021,
+        "price": {
+          "amount": 59.99,
+          "currency": "USD"
+        },
+        "available": true
+      },
+      {
+        "isbn": "978-0-555555-55-5",
+        "title": "Web Development Guide",
+        "author": "Carol Designer",
+        "year": 2022,
+        "price": {
+          "amount": 39.99,
+          "currency": "USD"
+        },
+        "available": false
+      }
+    ]
+  }
+}
